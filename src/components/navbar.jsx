@@ -48,7 +48,7 @@ h-10 md:h-12 rounded-full object-cover'/>
 <div className="hidden md:block">
   <p className="text-lg font-medium text-black
    dark:text-gray-400">John Doe</p>
-  <span className="text-sm text bg-gray-700 dark:text-gray-500"> johndoe@gmail.com</span>
+  <span className="text-sm text-gray-500 dark:text-gray-500"> johndoe@gmail.com</span>
 </div>
 <MdOutlineKeyboardArrowDown className="hidden md:block text-2xl
 text-gray-600 dark:text-gray-300 cursor-pointer"/>
