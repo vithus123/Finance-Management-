@@ -22,7 +22,7 @@ const data=[
 {
   label:"Total Expense",
   amount:"50,120.00",
-  increase: 8.9,
+  increase: 11.9,
   icon: <SiCashapp size={26} />
 },
 

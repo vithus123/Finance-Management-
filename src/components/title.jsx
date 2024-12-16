@@ -8,3 +8,4 @@ const Title = ({title}) => {
   </p>
   )
 }
+export default Title;
