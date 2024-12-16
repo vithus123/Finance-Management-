@@ -42,13 +42,13 @@ const Navbar = () => {
 <Themeswitch/>
 </div>
 <div className='flex items-center gap-2'>
-<img src="public/images/IMG-20240329-WA0065.jpg"
+<img src="public/images/vv.jpg"
  alt="User" className='w-10 md:w-12
 h-10 md:h-12 rounded-full object-cover'/>
 <div className="hidden md:block">
   <p className="text-lg font-medium text-black
-   dark:text-gray-400">IynkVithu</p>
-  <span className="text-sm text-gray-500 dark:text-gray-500"> vithuiynk15@gmail.com</span>
+   dark:text-gray-400">Vithu</p>
+  <span className="text-sm text-gray-500 dark:text-gray-500"> oink15@gmail.com</span>
 </div>
 <MdOutlineKeyboardArrowDown className="hidden md:block text-2xl
 text-gray-600 dark:text-gray-300 cursor-pointer"/>

@@ -57,7 +57,7 @@ const Stats = () => {
             md:text lg'>
               {item.label}</span>
             <p className='text-2xl 2xl:text-3xl font-medium text-black dark:text-gray-300'>
-              %{item.amount}</p>
+              ${item.amount}</p>
 
 
     </div>
